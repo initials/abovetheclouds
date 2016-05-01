@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/14.0">
+  <id>AboveTheClouds</id>
+  <versionNumber>1.1</versionNumber>
+  <filename>AboveTheClouds</filename>
+  <name>AboveTheClouds</name>
+  <initialWindow>
+    <title>AboveTheClouds</title>
+    <content>AboveTheClouds.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <minimizable>true</minimizable>
+    <maximizable>false</maximizable>
+    <resizable>false</resizable>
+    <x>2</x>
+    <y>2</y>
+  </initialWindow>
+  <!-- 
+	More options:
+	http://livedocs.adobe.com/flex/3/html/File_formats_1.html#1043413
+	-->
+  <icon>
+    <image16x16>icons/AboveTheClouds16.png</image16x16>
+    <image29x29>icons/AboveTheClouds29.png</image29x29>
+    <image32x32>icons/AboveTheClouds32.png</image32x32>
+    <image48x48>icons/AboveTheClouds48.png</image48x48>
+    <image57x57>icons/AboveTheClouds57.png</image57x57>
+    <image72x72>icons/AboveTheClouds72.png</image72x72>
+    <image128x128>icons/AboveTheClouds128.png</image128x128>
+    <image512x512>icons/AboveTheClouds512.png</image512x512>
+  </icon>
+  <installFolder>AboveTheClouds</installFolder>
+</application>

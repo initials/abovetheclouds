@@ -1,0 +1,79 @@
+<level width="420" height="150" Type="Menu">
+  <camera x="0" y="0" />
+  <Grid exportMode="Rectangles" />
+  <Birds>
+    <Bird id="0" x="410" y="0" angle="0" speed="20">
+      <node x="330" y="20" />
+      <node x="320" y="10" />
+      <node x="270" y="30" />
+      <node x="210" y="20" />
+      <node x="110" y="40" />
+      <node x="60" y="20" />
+      <node x="0" y="40" />
+    </Bird>
+    <Bird id="1" x="410" y="20" angle="0" speed="20">
+      <node x="350" y="0" />
+      <node x="300" y="40" />
+      <node x="240" y="30" />
+      <node x="230" y="40" />
+      <node x="150" y="20" />
+      <node x="80" y="40" />
+      <node x="0" y="30" />
+    </Bird>
+    <Bird id="2" x="410" y="40" angle="0" speed="20">
+      <node x="360" y="40" />
+      <node x="300" y="50" />
+      <node x="240" y="60" />
+      <node x="120" y="120" />
+      <node x="50" y="70" />
+      <node x="0" y="50" />
+    </Bird>
+    <Bird id="3" x="410" y="60" angle="0" speed="20">
+      <node x="310" y="90" />
+      <node x="290" y="60" />
+      <node x="240" y="90" />
+      <node x="190" y="60" />
+      <node x="150" y="60" />
+      <node x="120" y="50" />
+      <node x="60" y="50" />
+      <node x="30" y="60" />
+      <node x="0" y="70" />
+    </Bird>
+    <Bird id="4" x="410" y="80" angle="0" speed="20">
+      <node x="340" y="70" />
+      <node x="290" y="80" />
+      <node x="270" y="60" />
+      <node x="260" y="70" />
+      <node x="160" y="70" />
+      <node x="110" y="90" />
+      <node x="30" y="80" />
+      <node x="0" y="80" />
+    </Bird>
+    <Bird id="5" x="410" y="100" angle="0" speed="20">
+      <node x="350" y="90" />
+      <node x="320" y="110" />
+      <node x="290" y="90" />
+      <node x="240" y="110" />
+      <node x="200" y="80" />
+      <node x="170" y="90" />
+      <node x="110" y="60" />
+      <node x="90" y="70" />
+      <node x="60" y="100" />
+      <node x="0" y="150" />
+    </Bird>
+    <Bird id="6" x="410" y="120" angle="0" speed="20">
+      <node x="180" y="130" />
+      <node x="130" y="100" />
+      <node x="90" y="110" />
+      <node x="50" y="90" />
+      <node x="30" y="100" />
+      <node x="0" y="90" />
+    </Bird>
+    <Bird id="7" x="410" y="140" angle="0" speed="20">
+      <node x="180" y="120" />
+      <node x="90" y="140" />
+      <node x="0" y="110" />
+    </Bird>
+  </Birds>
+  <Tiles tileset="TileSet" exportMode="XML" />
+</level>

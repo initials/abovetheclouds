@@ -1,0 +1,95 @@
+<level width="420" height="150" Type="Menu">
+  <camera x="0" y="0" />
+  <Grid exportMode="Rectangles">
+    <rect x="70" y="20" w="80" h="70" />
+    <rect x="200" y="40" w="100" h="80" />
+    <rect x="330" y="20" w="80" h="60" />
+  </Grid>
+  <Birds>
+    <TextBox id="0" x="150" y="80" width="150" height="10" text="Welcome to Above The Clouds" font="System" size="8" />
+  </Birds>
+  <Tiles tileset="TileSet" exportMode="XML">
+    <tile x="0" y="7" id="1" />
+    <tile x="0" y="8" id="1" />
+    <tile x="0" y="9" id="1" />
+    <tile x="0" y="10" id="1" />
+    <tile x="0" y="11" id="1" />
+    <tile x="1" y="6" id="1" />
+    <tile x="1" y="7" id="2" />
+    <tile x="1" y="8" id="2" />
+    <tile x="1" y="9" id="2" />
+    <tile x="1" y="10" id="2" />
+    <tile x="1" y="11" id="2" />
+    <tile x="2" y="2" id="1" />
+    <tile x="2" y="3" id="1" />
+    <tile x="2" y="4" id="1" />
+    <tile x="2" y="5" id="1" />
+    <tile x="2" y="6" id="2" />
+    <tile x="2" y="7" id="3" />
+    <tile x="2" y="8" id="3" />
+    <tile x="2" y="9" id="3" />
+    <tile x="2" y="10" id="3" />
+    <tile x="2" y="11" id="3" />
+    <tile x="3" y="2" id="2" />
+    <tile x="3" y="3" id="2" />
+    <tile x="3" y="4" id="2" />
+    <tile x="3" y="5" id="2" />
+    <tile x="3" y="6" id="3" />
+    <tile x="3" y="7" id="4" />
+    <tile x="3" y="8" id="4" />
+    <tile x="3" y="9" id="4" />
+    <tile x="3" y="10" id="4" />
+    <tile x="3" y="11" id="4" />
+    <tile x="4" y="2" id="3" />
+    <tile x="4" y="3" id="3" />
+    <tile x="4" y="4" id="3" />
+    <tile x="4" y="5" id="3" />
+    <tile x="4" y="6" id="4" />
+    <tile x="4" y="7" id="5" />
+    <tile x="4" y="8" id="5" />
+    <tile x="4" y="9" id="5" />
+    <tile x="4" y="10" id="5" />
+    <tile x="4" y="11" id="5" />
+    <tile x="5" y="2" id="4" />
+    <tile x="5" y="3" id="4" />
+    <tile x="5" y="4" id="4" />
+    <tile x="5" y="5" id="4" />
+    <tile x="5" y="6" id="5" />
+    <tile x="5" y="7" id="6" />
+    <tile x="5" y="8" id="6" />
+    <tile x="5" y="9" id="6" />
+    <tile x="5" y="10" id="6" />
+    <tile x="5" y="11" id="6" />
+    <tile x="6" y="2" id="5" />
+    <tile x="6" y="3" id="5" />
+    <tile x="6" y="4" id="5" />
+    <tile x="6" y="5" id="5" />
+    <tile x="6" y="6" id="6" />
+    <tile x="6" y="7" id="7" />
+    <tile x="6" y="8" id="7" />
+    <tile x="6" y="9" id="7" />
+    <tile x="6" y="10" id="7" />
+    <tile x="6" y="11" id="7" />
+    <tile x="7" y="2" id="6" />
+    <tile x="7" y="3" id="6" />
+    <tile x="7" y="4" id="6" />
+    <tile x="7" y="5" id="6" />
+    <tile x="7" y="6" id="7" />
+    <tile x="7" y="7" id="8" />
+    <tile x="7" y="8" id="8" />
+    <tile x="7" y="9" id="8" />
+    <tile x="7" y="10" id="8" />
+    <tile x="7" y="11" id="8" />
+    <tile x="8" y="2" id="7" />
+    <tile x="8" y="3" id="7" />
+    <tile x="8" y="4" id="7" />
+    <tile x="8" y="5" id="7" />
+    <tile x="8" y="6" id="8" />
+    <tile x="8" y="7" id="8" />
+    <tile x="9" y="2" id="8" />
+    <tile x="9" y="3" id="8" />
+    <tile x="9" y="4" id="8" />
+    <tile x="9" y="5" id="8" />
+    <tile x="9" y="6" id="8" />
+  </Tiles>
+</level>
